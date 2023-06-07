@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dato414 "Danny"
-- 👀 I’m interested in developing backend
+- 👀 I’m interested in developing Frontend
 - 🌱 I’m currently learning  Javascript 
 - 📫 How to reach me cel :  2234252196  / email : axelpecora@gmail.com  
       
